@@ -1,0 +1,111 @@
+# Ignore files and folders for the entire project
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+.vscode/
+.env
+*.log
+
+####################
+# Backend: Server #
+####################
+
+# Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+# Build output
+bin/
+obj/
+*.dll
+*.exe
+*.app
+*.apk
+*.so
+*.dylib
+*.pdb
+*.lock.json
+*.ide.json
+*.cache
+*.csproj.user
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Microsoft user files
+*.localhistory
+*.dbmdl
+*.sdf
+*.suo
+*.userprefs
+*.tlog
+*.lastcodeanalysissucceeded
+
+# Generated files
+Generated\_Code/
+
+###########################
+# Frontend: Client (React) #
+###########################
+
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite specific
+dist/
+.vite/
+*.local
+
+# Build directories
+build/
+output/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Misc
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Node.js dependencies
+Client/node_modules/
+
+# Build outputs
+Client/dist/
+Server/bin/
+Server/obj/
+
+# IDE-specific files
+Client/.vscode/
+Server/.vs/
+
+# Temporary or generated files
+*.log
+*.tmp
+*.cache
+
+# Sensitive files
+Server/appsettings.Development.json
+*.env
+
+# Runtime files
+Server/runtimes/
+Server/bin/Debug/
+Server/obj/
+*.dll
+*.exe
+*.pdb
+*.runtimeconfig.json
+
