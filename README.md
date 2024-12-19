@@ -13,4 +13,4 @@ Integrating Redux Toolkit with React : to manage state
 ![Join page](ProjectImage/ChatLogin.png)
 
 
-![Chatroom Page](ProjectImage/Cchatroom.png)
+![Chatroom Page](ProjectImage/chatroom.png)
