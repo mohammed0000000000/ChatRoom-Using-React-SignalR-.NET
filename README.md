@@ -8,3 +8,4 @@ Designing the Frontend with React: creating a sleek and responsive user interfac
 
 Integrating SignalR with React: seamlessly integrate your backend and frontend for real-time data exchange.
 Integrating Redux Toolkit with React : to manage state
+![Join page](ProjectImage/ChatLogin.png)
